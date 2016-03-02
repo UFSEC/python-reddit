@@ -1,6 +1,6 @@
 # python-reddit
 intro to python and the python reddit api wrapper.
-
+- As presented live at [UF Software Engineering Club's](https://www.facebook.com/groups/ufsdc/) 1st GBM of 2016.
 - A script that downloads the top 10 hot wallpapers from [r/wallpapers](reddit.com/r/wallpapers).
 - Checkout the [praw docs](https://praw.readthedocs.org/en/stable/) for more information!
 - Follow along with the YouTube video tutorial here:  
